@@ -2,9 +2,11 @@
 
 body { 
 
+
 }
 
 a {
+
 	text-decoration: none;
 	text-decoration-color: #777777;
 	color: #777777; 
@@ -16,7 +18,7 @@ a:hover {
 	position: relative;
 	width: 287px;
 	text-align: center;
-	background: #4aaaa5;
+	color: #4aaaa5;
 
 }
 
